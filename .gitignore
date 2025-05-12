@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 working/
+.DS_Store
+r/.DS_Store
+r/harvestImages/.DS_Store
